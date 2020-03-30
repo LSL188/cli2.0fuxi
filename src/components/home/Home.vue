@@ -46,6 +46,7 @@ export default {
 .home-el-container {
   height: 100%;
   .el-header {
+    min-width: 300px;
     user-select: none;
     background-color: #373d41;
     display: flex;
